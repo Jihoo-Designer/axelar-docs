@@ -52,27 +52,25 @@
       https://services.staketab.com/axelar-rpc <br/>
       https://axelar.rpc.stake2.me/ <br/>
       https://axelar-rpc.qubelabs.io/ <br/>
-      https://axelar-mainnet-rpc.allthatnode.com:1317 (REST API) <br/>
-      https://axelar-mainnet-rpc.allthatnode.com:26657 (Tendermint RPC) <br/>
+      https://axelar-mainnet-rpc.allthatnode.com:26657<br/>
       https://axelar-rpc.quantnode.tech/
     </td>
     <td>
       https://axelartest-rpc.quickapi.com/ <br/>
       https://services.staketab.com/axelar-testnet-1-rpc <br/>
       https://axelar-testnet-rpc.qubelabs.io/ <br/>
-      https://axelar-lisbon-rpc.allthatnode.com:1317 (REST API) <br/>
-      https://axelar-lisbon-rpc.allthatnode.com:26657 (Tendermint RPC) <br/>
+      https://axelar-lisbon-rpc.allthatnode.com:26657<br/>
       https://axelartest-rpc.quantnode.tech/
     </td>
     <td>
       https://services.staketab.com/axelar-testnet-2-rpc <br/>
-      https://axelar-casablanca-rpc.allthatnode.com:1317 (REST API) <br/>
-      https://axelar-casablanca-rpc.allthatnode.com:26657 (Tendermint RPC)
+      https://axelar-casablanca-rpc.allthatnode.com:26657
     </td>
   </tr>
   <tr>
     <td>LCD endpoints</td>
     <td>
+      https://axelar-mainnet-rpc.allthatnode.com:1317<br/>
       https://axelar-lcd.quickapi.com/ <br/>
       https://axelar-lcd.qubelabs.io/ <br/>
       https://services.staketab.com/axelar-api <br/>
@@ -80,12 +78,14 @@
       https://axelar-lcd.quantnode.tech/
     </td>
     <td>
+      https://axelar-lisbon-rpc.allthatnode.com:1317<br/>
       https://axelartest-lcd.quickapi.com/ <br/>
       https://axelar-testnet-lcd.qubelabs.io/ <br/>
       https://services.staketab.com/axelar-testnet-1-api <br/>
       https://axelartest-lcd.quantnode.tech/
     </td>
     <td>
+      https://axelar-casablanca-rpc.allthatnode.com:1317<br/>
       https://services.staketab.com/axelar-testnet-2-api
     </td>
   </tr>
